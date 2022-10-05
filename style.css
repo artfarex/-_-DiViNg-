@@ -45,3 +45,8 @@ footer{
     border-radius:10px;
     border-collapse: collapse;
 }
+
+.text{
+    padding-top:10px;
+    margin-left:10px;
+}
